@@ -1,3 +1,5 @@
+# Information
+
 | Command      | Description                                   |
 |--------------|-----------------------------------------------|
 | !avatar      | Displays a user's avatar.                     |
