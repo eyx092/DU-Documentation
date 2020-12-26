@@ -1,3 +1,5 @@
+# Utility
+
 | Command     | Description                                                             |
 |-------------|-------------------------------------------------------------------------|
 | !announce   | Announces a message to a given channel.                                 |
