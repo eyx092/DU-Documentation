@@ -1,17 +1,17 @@
 # Commands
 A guide to all of the commands on Discord Utilities.
 ## Contents
-- Information
+- [Information](https://github.com/eyx092/DU-Documentation/blob/main/commands/information.md)
   - Commands used to display information about the bot.
-- Utility
+- [Utility](https://github.com/eyx092/DU-Documentation/blob/main/commands/utility.md)
   - Commands used to perform useful functions.
-- Images
+- [Images](https://github.com/eyx092/DU-Documentation/blob/main/commands/images.md)
   - Commands that get some lovely images for you.
-- Image Manipulation
+- [Image Manipulation](https://github.com/eyx092/DU-Documentation/blob/main/commands/image_manipulation.md)
   - Commands that allow you to manipulate images right in Discord.
-- Responses
+- [Responses](https://github.com/eyx092/DU-Documentation/blob/main/commands/responses.md)
   - Commands that generate some lovely text responses.
-- Fun
+- [Fun](https://github.com/eyx092/DU-Documentation/blob/main/commands/fun.md)
   - Commands that exist for no other reason than for fun.
-- Search
+- [Search](https://github.com/eyx092/DU-Documentation/blob/main/commands/search.md)
   - Commands used to search the internet.
