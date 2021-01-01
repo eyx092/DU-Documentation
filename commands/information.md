@@ -1,13 +1,15 @@
 # Information
 
-| Command      | Description                                   |
-|--------------|-----------------------------------------------|
-| !avatar      | Displays a user's avatar.                     |
-| !botinfo     | Displays information about the bot.           |
-| !help        | Displays the help page.                       |
-| !links       | Displays links related to DU.                 |
-| !membercount | Shows the member count in the current server. |
-| !ping        | Displays the bot latency.                     |
-| !roleinfo    | Display information on given role.            |
-| !serverinfo  | Shows the information of the current server.  |
-| !userinfo    | Display information on a user.                |
+| Command        | Description                                          |
+|----------------|------------------------------------------------------|
+| !avatar        | Displays a user's avatar.                            |
+| !botinfo       | Displays information about the bot.                  |
+| !contributions | Shows contributions the user has made to DU, if any. |
+| !help          | Displays the help page.                              |
+| !invite        | Shows information on inviting DU to your server.     |
+| !links         | Displays links related to DU.                        |
+| !membercount   | Shows the member count in the current server.        |
+| !ping          | Displays the bot latency.                            |
+| !roleinfo      | Displays information on the given role.              |
+| !serverinfo    | Shows the information of the current server.         |
+| !userinfo      | Display information on a user.                       |
