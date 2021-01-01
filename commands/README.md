@@ -15,3 +15,5 @@ A guide to all of the commands on Discord Utilities.
   - Commands that exist for no other reason than for fun.
 - [Search](https://github.com/eyx092/DU-Documentation/blob/main/commands/search.md)
   - Commands used to search the internet.
+- [Math](https://github.com/eyx092/DU-Documentation/blob/main/commands/math.md)
+  - Commands used to ~~do your homework~~ calculate your equations.
