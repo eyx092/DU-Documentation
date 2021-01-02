@@ -15,6 +15,8 @@ A guide to all of the commands on Discord Utilities.
   - Commands that generate some lovely text responses.
 - [Fun](https://github.com/eyx092/DU-Documentation/blob/main/commands/fun.md)
   - Commands that exist for no other reason than for fun.
+- [Leveling](https://github.com/eyx092/DU-Documentation/blob/main/commands/leveling.md)
+  - Commands related to XP leveling.
 - [Search](https://github.com/eyx092/DU-Documentation/blob/main/commands/search.md)
   - Commands used to search the internet.
 - [Math](https://github.com/eyx092/DU-Documentation/blob/main/commands/math.md)
