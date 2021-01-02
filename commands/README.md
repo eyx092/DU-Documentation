@@ -5,6 +5,8 @@ A guide to all of the commands on Discord Utilities.
   - Commands used to display information about the bot.
 - [Utility](https://github.com/eyx092/DU-Documentation/blob/main/commands/utility.md)
   - Commands used to perform useful functions.
+- [Command Management](https://github.com/eyx092/DU-Documentation/blob/main/commands/command_management.md)
+  - Commands used to manage commands ;-;
 - [Images](https://github.com/eyx092/DU-Documentation/blob/main/commands/images.md)
   - Commands that get some lovely images for you.
 - [Image Manipulation](https://github.com/eyx092/DU-Documentation/blob/main/commands/image_manipulation.md)
