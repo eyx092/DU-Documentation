@@ -1,6 +1,6 @@
 # Fun
 
-| Commmand   | Description                             |
+| Command    | Description                             |
 |------------|-----------------------------------------|
 | !8ball     | It's an 8ball.                          |
 | !akinator  | Play an Akinator game.                  |
