@@ -6,4 +6,5 @@
 | !disablecmd    | Disables a command in this server.                                                                     |
 | !disablemodule | Disables all commands in a module.                                                                     |
 | !enablecmd     | Enables a command in this server.                                                                      |
+| !enablemodule  | Enables all commands in a module.                                                                      |
 | !ignorechannel | Ignores the given channel for all commands or the specific command/module.                             |
