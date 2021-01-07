@@ -3,6 +3,7 @@
 | Command        | Description                                         |
 |----------------|-----------------------------------------------------|
 | !discordjs     | Search the Discord.js docs within Discord messages. |
+| !gdlevel       | Gets info on a Geometry Dash level.                 |
 | !gdprofile     | Gets info on a Geometry Dash profile.               |
 | !github        | Displays information on Github repos.               |
 | !google        | Searches Google.                                    |
