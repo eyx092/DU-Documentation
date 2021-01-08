@@ -1,12 +1,16 @@
 # Fun
 
-| Command    | Description                             |
-|------------|-----------------------------------------|
-| !8ball     | It's an 8ball.                          |
-| !akinator  | Play an Akinator game.                  |
-| !bon       | Fake bans users!                        |
-| !hangman   | Play hangman with the whole server!     |
-| !hug       | Hugs the specified user.                |
-| !rps       | A Rock, Paper, Scissors command.        |
-| !tictactoe | Play tictactoe with the user mentioned! |
-| !wink      | Winks at the specified user.            |
+| Command        | Description                                          |
+|----------------|------------------------------------------------------|
+| !avatar        | Displays a user's avatar.                            |
+| !botinfo       | Displays information about the bot.                  |
+| !contributions | Shows contributions the user has made to DU, if any. |
+| !help          | Displays the help page.                              |
+| !invite        | Shows information on inviting DU to your server.     |
+| !links         | Displays links related to DU.                        |
+| !mcserverinfo  | Gets info on a Minecraft server.                     |
+| !membercount   | Shows the member count in the current server.        |
+| !ping          | Displays the bot latency.                            |
+| !roleinfo      | Displays information on the given role.              |
+| !serverinfo    | Shows the information of the current server.         |
+| !userinfo      | Display information on a user.                       |
