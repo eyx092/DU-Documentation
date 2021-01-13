@@ -5,6 +5,7 @@
 | !8ball     | It's an 8ball.                                    |
 | !akinator  | Play an Akinator game.                            |
 | !bon       | Fake bans users!                                  |
+| !coinflip  | Flips a coin.                                     |
 | !gayrate   | Check how gay you are.                            |
 | !hangman   | Play hangman with the whole server!               |
 | !hug       | Hugs the specified user.                          |
